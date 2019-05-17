@@ -30,6 +30,7 @@
 | Name                    | GitHub ID            | website for a GitHub repo                               |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
+| Aaron Nielsen | aaronn84 | <https://aaronn84.github.io/> |
 
 
 <br>
